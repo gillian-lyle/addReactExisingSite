@@ -1,2 +1,2 @@
 # addReactExisingSite
-Add react to an existing web page
+Add React to an existing web page
